@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6D63A678-E3AD-417F-A88F-DC8212555EC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FeatureToggle/FeatureToggle/FeatureFilter.cs">
+    <Files>
+      <File FileName="FeatureToggle/appsettings.json" Line="15" Column="38" />
+      <File FileName="FeatureToggle/Startup.cs" Line="14" Column="24" />
+      <File FileName="FeatureToggle/Controllers/HomeController.cs" Line="22" Column="10" />
+      <File FileName="FeatureToggle/FeatureToggle/FeatureToggleConfig.cs" Line="5" Column="20" />
+      <File FileName="FeatureToggle/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="FeatureToggle/Models/ErrorViewModel.cs" Line="3" Column="20" />
+      <File FileName="FeatureToggle/FeatureToggle/FeatureFilter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Evrim/git/DotNetFeatureToggle/FeatureToggle/FeatureToggle/Controllers/HomeController.cs" relfile="FeatureToggle/Controllers/HomeController.cs" line="23" column="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleMVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
